@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "努力賞",
+  "base_artist": "WEST.",
+  "createdAt": "2025-12-01T13:48:01.310812Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "努力賞",
+      "artist": "ジャニーズWEST",
+      "has_synced": false,
+      "path": "select/pl_01_努力賞_ジャニーズWEST.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "努力賞",
+      "artist": "ジャニーズWEST",
+      "has_synced": false,
+      "path": "select/pl_02_努力賞_ジャニーズWEST.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "努力賞",
+      "artist": "ジャニーズWEST",
+      "has_synced": false,
+      "path": "select/pl_03_努力賞_ジャニーズWEST.txt"
+    }
+  ]
+}
